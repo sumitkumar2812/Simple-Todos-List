@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  width: 50vw;
+}
+.delete-item-container {
+  background-color: #ffffff;
+  height: 80vh;
+  width: 30vw;
+  margin: auto;
+  padding-top: 30px;
+}
+
+.main-heading {
+  font-size: 25px;
+  font-family: serif;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 15px;
+  color: #ff0b37;
+}

@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.item-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.para {
+  font-size: 20px;
+  font-weight: 500;
+  font-family: serif;
+  color: black;
+}
+.button {
+  font-size: 15px;
+  font-weight: 200;
+  font-family: serif;
+  color: #ff0b37;
+  border-radius: 5px;
+  border-width: 2px;
+  border-color: #ff0b37;
+  cursor: pointer;
+  outline: none;
+  height: 35px;
+  width: 70px;
+}
